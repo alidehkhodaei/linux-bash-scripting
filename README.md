@@ -1,4 +1,4 @@
-# Linux Bash Scripting
+# Linux Bash Scripting for Beginners
 
 ## 1. First Script
 
